@@ -1,0 +1,99 @@
+{
+    "drug": "Levothyroxine",
+    "super_food": [],
+    "bad_food": [
+        "milk"
+    ],
+    "interactive_drug": [
+        {
+            "name": "Calcium carbonate",
+            "delta": 4
+        },
+        {
+            "name": "Sevelamer, lanthanum",
+            "delta": 4
+        },
+        {
+            "name": "Cholestyramine, colesevelam, colestipol",
+            "delta": 4
+        },
+        {
+            "name": "Iron supplements",
+            "delta": 4
+        },
+        {
+            "name": "Sucralfate",
+            "delta": 4
+        },
+        {
+            "name": "Sodium polystyrene sulfonate (Kalexate, Kayexalate, Kionex)",
+            "delta": 4
+        },
+        {
+            "name": "Stomach acid reducers - esomeprazole, lansoprazole, omeprazole, rabeprazole, Nexium, Prilosec, Prevacid, Protonix, Zegerid, and others",
+            "delta": 4
+        },
+        {
+            "name": "Antacids that contain aluminum or magnesium - Gaviscon, Maalox, Milk of Magnesia, Mintox, Mylanta, Pepcid Complete, and others",
+            "delta": 4
+        },
+        {
+            "name": "Orlistat",
+            "delta": -1
+        },
+        {
+            "name": "Phenobarbital, rifampin",
+            "delta": -1
+        },
+        {
+            "name": "Ketamine, steroid medicines",
+            "delta": -1
+        },
+        {
+            "name": "Antidepressants such as amitriptyline or maprotiline",
+            "delta": -1
+        },
+        {
+            "name": "Heart or blood pressure medication",
+            "delta": -1
+        },
+        {
+            "name": "Diabetes medications",
+            "delta": -1
+        },
+        {
+            "name": "Cancer medicine such as imatinib",
+            "delta": -1
+        },
+        {
+            "name": "A blood thinner - warfarin, Coumadin, Jantoven",
+            "delta": -1
+        }
+    ],
+    "common_symptom": [
+        "Fever, hot flashes, increased sweating",
+        "Tiredness",
+        "Skin rash, hair loss",
+        "Chest pain, fast or irregular heartbeats, shortness of breath",
+        "Headache, leg cramps, muscle pain or weakness",
+        "Tremors, feeling nervous or irritable, sleep problems (insomnia)",
+        "Increased or change in appetite",
+        "Weight loss or weight gain",
+        "Changes in your menstrual periods",
+        "Vomiting, diarrhea"
+    ],
+    "serious_symptom": [
+        "Sudden pain or trouble moving your hip, wrist, or back",
+        "Fast or irregular heartbeats",
+        "Chest pain, pain spreading to your jaw or shoulder",
+        "Wheezing",
+        "Fever, swollen glands, itching, joint pain, or not feeling well",
+        "Nausea, vomiting, or diarrhea",
+        "High blood sugar - increased thirst, increased urination, dry mouth, fruity breath odor"
+    ],
+    "treatment": [
+        "Hypothyroidism (underactive thyroid) in adults and children",
+        "Certain type of thyroid cancer in adults",
+        "Myxedema coma"
+    ]
+}
