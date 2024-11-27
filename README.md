@@ -13,7 +13,6 @@ This project provides a **Medical Drug Interaction and Analysis API**, allowing 
 - [Endpoints](#endpoints)
 - [Technical Details](#technical-details)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
